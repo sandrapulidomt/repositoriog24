@@ -9,10 +9,6 @@ package proyecto24.mavenproject2;
  *
  * @author pulid
  */
-public class ejercicio1 {
-
-    public void metodo() {
-        System.out.println("Logica Metodo");
-    }
-
+public class ejercicio2 {
+    
 }
